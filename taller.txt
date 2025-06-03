@@ -1,0 +1,2 @@
+Placa: WSF-123 | Modelo: mazda | Problema: falla en el motor | Estado: Reparado
+Placa: QSW-456 | Modelo: chevrolet | Problema: falla en los frenos | Estado: No reparado
