@@ -1,0 +1,2 @@
+ID: 123 | Nombre: bryan | Email: bryan@gmail.com | Estado: No Activo
+ID: 456 | Nombre: luis | Email: luis@gmail.com | Estado: Activo
