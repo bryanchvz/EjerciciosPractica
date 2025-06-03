@@ -1,0 +1,15 @@
+Ejercicio Taller mecanico
+
+Clase Auto con: placa, modelo, problema, reparado (booleano)
+
+Al registrar un auto, el estado de reparación debe ser False.
+
+Método marcar_reparado() para cambiar el estado.
+
+Menú:
+
+1. Ingresar auto
+2. Ver autos
+3. Reparar auto (por placa)
+4. Guardar en archivo taller.txt
+5. Salir
